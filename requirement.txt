@@ -1,7 +1,0 @@
-ipykernel
-pandas
-scikit-learn
-matplotlib
-seaborn
-streamlit
-joblib
